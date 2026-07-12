@@ -1,0 +1,2 @@
+Phase 3 materialized lifecycle final repro.
+Created 2026-07-12T08:59:56Z.
